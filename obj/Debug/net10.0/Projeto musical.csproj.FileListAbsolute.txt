@@ -12,3 +12,4 @@ C:\Users\marco\OneDrive\Documentos\GitHub\Projeto musical\obj\Debug\net10.0\refi
 C:\Users\marco\OneDrive\Documentos\GitHub\Projeto musical\obj\Debug\net10.0\Projeto musical.pdb
 C:\Users\marco\OneDrive\Documentos\GitHub\Projeto musical\obj\Debug\net10.0\Projeto musical.genruntimeconfig.cache
 C:\Users\marco\OneDrive\Documentos\GitHub\Projeto musical\obj\Debug\net10.0\ref\Projeto musical.dll
+C:\Users\marco\OneDrive\Documentos\GitHub\Projeto musical\obj\Debug\net10.0\Projeto musical.sourcelink.json
